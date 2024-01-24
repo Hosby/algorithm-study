@@ -7,3 +7,4 @@
 5. https://leetcode.com/problems/group-anagrams/ 그룹 애너그램
 6. https://leetcode.com/problems/longest-palindromic-substring/ 가장 긴 팬린드롬 부분 문자열
 7. https://leetcode.com/problems/two-sum/ 두 수의 합
+8. https://leetcode.com/problems/trapping-rain-water/ 빗물 트래핑
