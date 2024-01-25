@@ -8,3 +8,4 @@
 6. https://leetcode.com/problems/longest-palindromic-substring/ 가장 긴 팬린드롬 부분 문자열
 7. https://leetcode.com/problems/two-sum/ 두 수의 합
 8. https://leetcode.com/problems/trapping-rain-water/ 빗물 트래핑
+9. https://leetcode.com/problems/3sum/ 세 수의 합
