@@ -9,3 +9,4 @@
 7. https://leetcode.com/problems/two-sum/ 두 수의 합
 8. https://leetcode.com/problems/trapping-rain-water/ 빗물 트래핑
 9. https://leetcode.com/problems/3sum/ 세 수의 합
+10. https://leetcode.com/problems/array-partition/ 배열 파티션 1
