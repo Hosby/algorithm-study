@@ -57,7 +57,7 @@ class Solution {
             // 다음 노드 선언
             ListNode p = head.next;
             // 다음 다음 노드를 파라미터로 전달하고 스왑된 값을 리턴받음
-            head.next = swapPairs(head.next.next);
+            head.next = swapPairsRecursion(head.next.next);
             // 다음 다음 노드는 현재 노드로 지정
             p.next = head;
             // 다음 노드 리턴
