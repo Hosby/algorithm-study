@@ -19,3 +19,4 @@
 17. https://leetcode.com/problems/swap-nodes-in-pairs/ 페어의 노드 스왑
 18. https://leetcode.com/problems/odd-even-linked-list/ 홀짝 연결 리스트
 19. https://leetcode.com/problems/reverse-linked-list-ii/ 역순 연결 리스트2
+20. https://leetcode.com/problems/valid-parentheses/ 유요한 괄호
