@@ -23,3 +23,4 @@
 21. https://leetcode.com/problems/remove-duplicate-letters/ 중복 문자 제거
 22. https://leetcode.com/problems/daily-temperatures/ 일일온도
 23. https://leetcode.com/problems/implement-stack-using-queues/ 큐를 이용한 스택 구현
+24. https://leetcode.com/problems/implement-queue-using-stacks/ 스택을 이용한 큐 구현
