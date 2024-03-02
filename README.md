@@ -24,3 +24,4 @@
 22. https://leetcode.com/problems/daily-temperatures/ 일일온도
 23. https://leetcode.com/problems/implement-stack-using-queues/ 큐를 이용한 스택 구현
 24. https://leetcode.com/problems/implement-queue-using-stacks/ 스택을 이용한 큐 구현
+25. https://leetcode.com/problems/design-circular-queue/ 원형 큐 디자인
