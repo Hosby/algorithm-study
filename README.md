@@ -26,3 +26,4 @@
 24. https://leetcode.com/problems/implement-queue-using-stacks/ 스택을 이용한 큐 구현
 25. https://leetcode.com/problems/design-circular-queue/ 원형 큐 디자인
 26. https://leetcode.com/problems/design-circular-deque/ 원형 데크 디자인
+27. https://leetcode.com/problems/merge-k-sorted-lists/ k개 정렬 리스트 병합
